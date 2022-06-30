@@ -1,4 +1,4 @@
-/*csvÆÄÀÏ ÀĞ¾î¿À´Â ÇÔ¼ö*/
+/*csvì½ì–´ì˜¤ëŠ” í•¨ìˆ˜(ë¯¸ì™„)*/
 #include <stdio.h>
 #include <string.h>
 #include "csv_practice.h"
