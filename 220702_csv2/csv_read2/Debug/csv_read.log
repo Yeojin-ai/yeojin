@@ -1,0 +1,7 @@
+﻿  csv_main.c
+  print_result.c
+C:\Practice\class\220630_csv\csv_read\csv_read\print_result.c(41,15): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Practice\class\220630_csv\csv_read\csv_read\print_result.c(48,18): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Practice\class\220630_csv\csv_read\csv_read\print_result.c(64,10): warning C4098: 'printResult': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
+  csv_read.vcxproj -> C:\Practice\class\220630_csv\csv_read\Debug\csv_read.exe
